@@ -1,0 +1,4 @@
+to install this u may need to get ssh keys with github and also gitlab  make sure u build this locally 
+sudo apt install git
+git clone https://gitlab.com/kalilinux/build-scripts/kali-vm.git
+cd kali-vm/
